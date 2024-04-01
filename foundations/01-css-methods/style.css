@@ -1,0 +1,8 @@
+div { /* external css method*/ 
+  background-color: red;
+  color: white;
+  font-size: 32px;
+  font-family: bold;
+  text-align: center;
+}
+
