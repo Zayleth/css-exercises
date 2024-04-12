@@ -29,8 +29,17 @@ div.text {
   font-weight: 800;
 }
 
+<<<<<<< HEAD
 #confirm-button {
   background: green;
+=======
+.para {
+  font-size: 22px;
+}
+
+.confirm {
+  background:green;
+>>>>>>> 1207cf8dc58acea865cce50477e49932cc2ad0e6
   color: white;
   font-weight: bold;
 }
@@ -39,4 +48,19 @@ div.text {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
+<<<<<<< HEAD
 }
+=======
+}
+
+div.text {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 100;
+}
+
+.text.child{
+  font-weight: 800;
+  font-size: 17px;
+}
+>>>>>>> 1207cf8dc58acea865cce50477e49932cc2ad0e6
